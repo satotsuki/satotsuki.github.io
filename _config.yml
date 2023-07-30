@@ -62,5 +62,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: git@github.com:LouisAE/hexo-test.git
+  repo: git@github.com:satotsuki/satotsuki.github.io.git
   branch: gh-page
